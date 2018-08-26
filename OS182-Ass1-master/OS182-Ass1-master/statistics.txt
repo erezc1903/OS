@@ -1,0 +1,57 @@
+
+DEFAULT:
+
+Medium calc:
+Average wtime: 1, Average rtime: 0, Average iotime: 0
+
+Large calc:
+Average wtime: 1, Average rtime: 0, Average iotime: 0
+
+Medium IO:
+Average wtime: 2693, Average rtime: 1552, Average iotime: 455
+
+Large IO:
+Average wtime: 10389, Average rtime: 15415, Average iotime: 1932
+
+FCFS:
+
+Medium calc:
+Average wtime: 1, Average rtime: 0, Average iotime: 0
+
+Large calc:
+Average wtime: 2, Average rtime: 0, Average iotime: 0
+
+Medium IO:
+Average wtime: 533, Average rtime: 1525, Average iotime: 116
+
+Large IO:
+Average wtime: 7521, Average rtime: 15675, Average iotime: 1237
+
+
+SRT:
+
+Medium calc:
+Average wtime: 1, Average rtime: 0, Average iotime: 0
+
+Large calc:
+Average wtime: 2, Average rtime: 0, Average iotime: 0
+
+Medium IO:
+Average wtime: 2952, Average rtime: 1508, Average iotime: 536
+
+Large IO:
+Average wtime: 8467, Average rtime: 15177, Average iotime: 1474
+
+CFSD:
+
+Medium calc:
+Average wtime: 1, Average rtime: 0, Average iotime: 0
+
+Large calc:
+Average wtime: 1, Average rtime: 0, Average iotime: 0
+
+Medium IO:
+Average wtime: 2856, Average rtime: 1522, Average iotime: 506
+
+Large IO:
+Average wtime: 8903, Average rtime: 15871, Average iotime: 1717
